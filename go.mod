@@ -1,4 +1,4 @@
-module github.com/s32x/httpclient
+module github.com/ivan-cody/httpclient
 
 go 1.17
 
